@@ -1,4 +1,5 @@
 format: jb-book
 root: intro
 chapters:
-- file:  ot-spc-comparison
+- file: summer-2020-analysis
+- file: may-2017-analysis
